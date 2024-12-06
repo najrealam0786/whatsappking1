@@ -12,6 +12,8 @@ class ContactsScreen extends StatefulWidget {
   State<ContactsScreen> createState() => _ContactsScreenState();
 }
 
+
+
 class _ContactsScreenState extends State<ContactsScreen> {
   final List<Contact> _contacts = [];
   bool _isLoading = false;

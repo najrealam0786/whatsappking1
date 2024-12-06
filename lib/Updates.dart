@@ -167,6 +167,10 @@ class _UpdatesState extends State<Updates> {
             MaterialPageRoute(builder: (context) => Updates()),
           );
         },
+
+
+
+
         backgroundColor: Colors.green,
         child: const Icon(Icons.camera_alt, color: Colors.white, size: 30),
       ),
