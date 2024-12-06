@@ -116,6 +116,7 @@ class SignupScreen extends StatelessWidget {
                     child: Text(
                       'Already have an account? Login here!',
                       style: TextStyle(
+
                         color: Colors.red,
                         fontSize: 16,
 
